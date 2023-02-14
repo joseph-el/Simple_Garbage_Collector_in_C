@@ -6,7 +6,7 @@
 /*   By: yoel-idr <yoel-idr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/24 18:50:11 by yoel-idr          #+#    #+#             */
-/*   Updated: 2023/02/14 23:25:36 by yoel-idr         ###   ########.fr       */
+/*   Updated: 2023/02/14 23:44:20 by yoel-idr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include <unistd.h>
+# include <stab.h>
 
 # define CLEAN_ALL 1 << 0x1
 # define CLEAN_TMP 1 << 0x2
