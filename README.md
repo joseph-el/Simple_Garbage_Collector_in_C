@@ -32,7 +32,7 @@
  make
 ```
 ##### > Add This in your compilation ⬇️
-###### - Include linking in you compilation
+###### - Linking include  in you compilation
  ```Shell
  -I ./$(PATH_OF_GC_MEMORY)/include
  ```
@@ -41,5 +41,5 @@
  -L ./$(PATH_OF_GC_MEMORY)/gc_memory.a
  ```
 ##### For more details check :
-- [Header file](/include/gc_memory.h#L27) : All information about how to use function of gc_memory.
+- [Header file](/include/gc_memory.h#L27) : All information about how to use the function of gc_memory.
  
