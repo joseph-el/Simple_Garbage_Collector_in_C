@@ -40,6 +40,6 @@
 ```Shell
  -L ./$(PATH_OF_GC_MEMORY)/gc_memory.a
  ```
-### For more details check
-    -[HEADER FILE](/include/gc_memory.h#L27) : All information about how to use function of gc_memory.
+##### For more details check :
+- [Header file](/include/gc_memory.h#L27) : All information about how to use function of gc_memory.
  
