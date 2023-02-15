@@ -32,7 +32,7 @@
  make
 ```
 ##### > Add This in your compilation ⬇️
-###### - Linking include  in you compilation
+###### - Linking include  in your compilation
  ```Shell
  -I ./$(PATH_OF_GC_MEMORY)/include
  ```
